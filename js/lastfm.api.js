@@ -6,8 +6,8 @@
 
 function LastFM(options){
 	/* Set default values for required options. */
-	var apiKey    = options.apiKey    || '';
-	var apiSecret = options.apiSecret || '';
+	var apiKey    = options.apiKey    || '083489c7f7a24bcbb7ea8d4fb2510480';
+	var apiSecret = options.apiSecret || 'c1855083c70b5e89252c8a1b67250996';
 	var apiUrl    = options.apiUrl    || 'http://ws.audioscrobbler.com/2.0/';
 	var cache     = options.cache     || undefined;
 
