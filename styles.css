@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+img{
+width: 100%;
+height: auto;
+}
+
+.pink {
+background-color:#D4AFB9 ;
+}
+
+.lavender {
+background-color: #D1CFE2;
+}
+
+.powder {
+background-color: #9CADCE;
+}
+
+.sky {
+background-color: #7EC4CF;
+}
+
+.moon {
+background-color: #52B2CF;
+}
+
+.indigo {
+background-color: #284B63;
+}
+
+.caribbean {
+background-color: #3C6E71;
+}
+
+.tiffany {
+background-color: #A8DCD1;
+}
+
+.beige {
+background-color: #DCE2C8;
+}
+
